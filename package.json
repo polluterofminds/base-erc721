@@ -1,0 +1,17 @@
+{
+  "name": "base_pinnie_contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "setup": "cp .env.sample .env"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "hardhat": "^2.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.0"
+  }
+}
